@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cef2ed5b-8558-4532-9441-21d7e755906c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/twitter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app-header/app-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app-header/app-header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app-header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app/app.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-add-form/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-add-form/post-add-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-add-form/post-add-form.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list-item/post-list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list-item/post-list-item.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list/post-list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-list/post-list.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-status-filter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-status-filter/post-status-filter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/post-status-filter/post-status-filter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/search-panel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/search-panel/search-panel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/search-panel/search-panel.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cogh0NFkY9B5i3OnTUiRoq0Gpz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cef2ed5b-8558-4532-9441-21d7e755906c" name="Default Changelist" comment="" />
+      <created>1591200476448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591200476448</updated>
+      <workItem from="1591200481627" duration="69000" />
+      <workItem from="1591201373447" duration="802000" />
+      <workItem from="1591202213219" duration="431000" />
+      <workItem from="1591202736403" duration="962000" />
+      <workItem from="1591205144385" duration="1620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Mini-twitter-React-app" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="59" key="FileChooserDialogImpl" timestamp="1591203696596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="59" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591203696596" />
+    <state width="1367" height="163" key="GridCell.Tab.0.bottom" timestamp="1591203699323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591203699323" />
+    <state width="1367" height="163" key="GridCell.Tab.0.center" timestamp="1591203699323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591203699323" />
+    <state width="1367" height="163" key="GridCell.Tab.0.left" timestamp="1591203699323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591203699323" />
+    <state width="1367" height="163" key="GridCell.Tab.0.right" timestamp="1591203699323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1367" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591203699323" />
+    <state x="74" y="0" key="SettingsEditor" timestamp="1591202762450">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="74" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591202762450" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1591201434001">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591201434001" />
+  </component>
+</project>
