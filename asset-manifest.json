@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Mini-twitter-React-app.git/static/css/main.556cc4d0.chunk.css",
-    "main.js": "/Mini-twitter-React-app.git/static/js/main.bffa3450.chunk.js",
-    "main.js.map": "/Mini-twitter-React-app.git/static/js/main.bffa3450.chunk.js.map",
+    "main.js": "/Mini-twitter-React-app.git/static/js/main.8243dbf4.chunk.js",
+    "main.js.map": "/Mini-twitter-React-app.git/static/js/main.8243dbf4.chunk.js.map",
     "runtime-main.js": "/Mini-twitter-React-app.git/static/js/runtime-main.67d60cf7.js",
     "runtime-main.js.map": "/Mini-twitter-React-app.git/static/js/runtime-main.67d60cf7.js.map",
-    "static/js/2.72ee40e1.chunk.js": "/Mini-twitter-React-app.git/static/js/2.72ee40e1.chunk.js",
-    "static/js/2.72ee40e1.chunk.js.map": "/Mini-twitter-React-app.git/static/js/2.72ee40e1.chunk.js.map",
+    "static/js/2.deda357c.chunk.js": "/Mini-twitter-React-app.git/static/js/2.deda357c.chunk.js",
+    "static/js/2.deda357c.chunk.js.map": "/Mini-twitter-React-app.git/static/js/2.deda357c.chunk.js.map",
     "index.html": "/Mini-twitter-React-app.git/index.html",
-    "precache-manifest.4211b52be36983b203f845e6c257ed58.js": "/Mini-twitter-React-app.git/precache-manifest.4211b52be36983b203f845e6c257ed58.js",
+    "precache-manifest.270f80c2485793122c1b80bfe742c8fc.js": "/Mini-twitter-React-app.git/precache-manifest.270f80c2485793122c1b80bfe742c8fc.js",
     "service-worker.js": "/Mini-twitter-React-app.git/service-worker.js",
     "static/css/main.556cc4d0.chunk.css.map": "/Mini-twitter-React-app.git/static/css/main.556cc4d0.chunk.css.map",
-    "static/js/2.72ee40e1.chunk.js.LICENSE.txt": "/Mini-twitter-React-app.git/static/js/2.72ee40e1.chunk.js.LICENSE.txt"
+    "static/js/2.deda357c.chunk.js.LICENSE.txt": "/Mini-twitter-React-app.git/static/js/2.deda357c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.67d60cf7.js",
-    "static/js/2.72ee40e1.chunk.js",
+    "static/js/2.deda357c.chunk.js",
     "static/css/main.556cc4d0.chunk.css",
-    "static/js/main.bffa3450.chunk.js"
+    "static/js/main.8243dbf4.chunk.js"
   ]
 }
