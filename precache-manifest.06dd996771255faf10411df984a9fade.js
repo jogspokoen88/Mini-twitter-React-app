@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2eb17dad5b4452753882164d019f441",
+    "revision": "501fd7d88a211af1f82d0f550cc26e55",
     "url": "/Mini-twitter-React-app.git/index.html"
   },
   {
-    "revision": "ee70dd934fcc722ec7cf",
+    "revision": "f38e3ab55e14b49df92d",
     "url": "/Mini-twitter-React-app.git/static/css/main.556cc4d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mini-twitter-React-app.git/static/js/2.ffd9ac25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ee70dd934fcc722ec7cf",
-    "url": "/Mini-twitter-React-app.git/static/js/main.59c39d7b.chunk.js"
+    "revision": "f38e3ab55e14b49df92d",
+    "url": "/Mini-twitter-React-app.git/static/js/main.145b39f2.chunk.js"
   },
   {
     "revision": "21272d1f6655f84fbcf8",
