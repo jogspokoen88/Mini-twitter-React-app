@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Mini-twitter-React-app.git/static/css/main.556cc4d0.chunk.css",
-    "main.js": "/Mini-twitter-React-app.git/static/js/main.145b39f2.chunk.js",
-    "main.js.map": "/Mini-twitter-React-app.git/static/js/main.145b39f2.chunk.js.map",
-    "runtime-main.js": "/Mini-twitter-React-app.git/static/js/runtime-main.67d60cf7.js",
-    "runtime-main.js.map": "/Mini-twitter-React-app.git/static/js/runtime-main.67d60cf7.js.map",
-    "static/js/2.ffd9ac25.chunk.js": "/Mini-twitter-React-app.git/static/js/2.ffd9ac25.chunk.js",
-    "static/js/2.ffd9ac25.chunk.js.map": "/Mini-twitter-React-app.git/static/js/2.ffd9ac25.chunk.js.map",
-    "index.html": "/Mini-twitter-React-app.git/index.html",
-    "precache-manifest.06dd996771255faf10411df984a9fade.js": "/Mini-twitter-React-app.git/precache-manifest.06dd996771255faf10411df984a9fade.js",
-    "service-worker.js": "/Mini-twitter-React-app.git/service-worker.js",
-    "static/css/main.556cc4d0.chunk.css.map": "/Mini-twitter-React-app.git/static/css/main.556cc4d0.chunk.css.map",
-    "static/js/2.ffd9ac25.chunk.js.LICENSE.txt": "/Mini-twitter-React-app.git/static/js/2.ffd9ac25.chunk.js.LICENSE.txt"
+    "main.css": "/Mini-twitter-React-app/static/css/main.556cc4d0.chunk.css",
+    "main.js": "/Mini-twitter-React-app/static/js/main.145b39f2.chunk.js",
+    "main.js.map": "/Mini-twitter-React-app/static/js/main.145b39f2.chunk.js.map",
+    "runtime-main.js": "/Mini-twitter-React-app/static/js/runtime-main.b289a8e2.js",
+    "runtime-main.js.map": "/Mini-twitter-React-app/static/js/runtime-main.b289a8e2.js.map",
+    "static/js/2.ffd9ac25.chunk.js": "/Mini-twitter-React-app/static/js/2.ffd9ac25.chunk.js",
+    "static/js/2.ffd9ac25.chunk.js.map": "/Mini-twitter-React-app/static/js/2.ffd9ac25.chunk.js.map",
+    "index.html": "/Mini-twitter-React-app/index.html",
+    "precache-manifest.1b5c1b422f8fee336c61bf65bff18798.js": "/Mini-twitter-React-app/precache-manifest.1b5c1b422f8fee336c61bf65bff18798.js",
+    "service-worker.js": "/Mini-twitter-React-app/service-worker.js",
+    "static/css/main.556cc4d0.chunk.css.map": "/Mini-twitter-React-app/static/css/main.556cc4d0.chunk.css.map",
+    "static/js/2.ffd9ac25.chunk.js.LICENSE.txt": "/Mini-twitter-React-app/static/js/2.ffd9ac25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67d60cf7.js",
+    "static/js/runtime-main.b289a8e2.js",
     "static/js/2.ffd9ac25.chunk.js",
     "static/css/main.556cc4d0.chunk.css",
     "static/js/main.145b39f2.chunk.js"
